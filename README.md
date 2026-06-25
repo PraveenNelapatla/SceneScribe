@@ -8,7 +8,7 @@ SceneScribe is a project that aims to generate natural language captions for ima
 To get started with using this tool, you might want to clone or download the repository.
 
 ```bash
-git clone https://https://github.com/JohnPaulGummapu/SceneScribe
+git clone https://github.com/PraveenNelapatla/SceneScribe.git
 cd SceneScribe
 ```
 
